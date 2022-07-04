@@ -7,7 +7,7 @@ tags:
 - cybersecurity
 date: 2022-07-04 13:56 +0800
 ---
-Hi there,
+Hi there
 
 You can call me Dexer, its an alias that some know me as.
 
@@ -31,5 +31,4 @@ Not sure where this will go. Not sure if people will actually read this shit. Th
 
 After all, time will tell where all this leads to
 
-Respectfully, 
 Dexer
