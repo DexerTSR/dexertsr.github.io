@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Dexer ザスペクター
+description: Tech Blogger / Vaporwave Producer
+url: https://dexertsr.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: DexerTSR
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/DexerTSR
+    - https://github.com/DexerTSR
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Dexer ザスペクター
+  url: https://github.com/DexerTSR/
+  twitter: https://twitter.com/DexerTSR/
