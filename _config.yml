@@ -5,7 +5,7 @@ url: https://dexertsr.github.io
 avatar: /dex.png
 paginate: 5
 permalink: pretty
-cover_image: /City.jpeg
+cover_image: /City.jpg
 
 # Gems
 plugins:
