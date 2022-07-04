@@ -2,10 +2,10 @@
 title: Dexer
 description: Tech Blogger | Vaporwave Producer
 url: https://dexertsr.github.io
-avatar: /avatar.jpeg
+avatar: /dex.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /City.jpeg
 
 # Gems
 plugins:
