@@ -1,6 +1,6 @@
-- title: Email
-  url: mailto://vszhub@gmail.com
-  icon: fas fa-envelope
+- title: Bandcamp
+  url: https://decek.bandcamp.com
+  icon: fas fa-bandcamp
 - title: Twitter
   url: https://twitter.com/DexerTSR
   icon: fab fa-twitter
