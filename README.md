@@ -1,3 +1,7 @@
+Disclaimer: If you wish to know more about the theme, you can check below to know more. Theme credit goes to them and anybody who was involved in it.
+
+----
+
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
