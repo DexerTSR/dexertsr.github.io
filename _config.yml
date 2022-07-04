@@ -1,6 +1,6 @@
 # Setup
-title: Dexer ザスペクター
-description: Tech Blogger / Vaporwave Producer
+title: Dexer
+description: Tech Blogger | Vaporwave Producer
 url: https://dexertsr.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Dexer ザスペクター
   links:
     - https://twitter.com/DexerTSR
     - https://github.com/DexerTSR
@@ -56,4 +56,3 @@ sass:
 author:
   name: Dexer ザスペクター
   url: https://github.com/DexerTSR/
-  twitter: https://twitter.com/DexerTSR/
