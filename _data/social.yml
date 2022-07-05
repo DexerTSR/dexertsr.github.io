@@ -1,5 +1,5 @@
 - title: Bandcamp
-  url: https://decek.bandcamp.com
+  url: https://dexertsr.bandcamp.com
   icon: fab fa-bandcamp
 - title: Twitter
   url: https://twitter.com/DexerTSR
@@ -7,3 +7,6 @@
 - title: GitHub
   url: https://github.com/DexerTSR
   icon: fab fa-github
+- title: Replit
+  url: https://replit.com/@DexerTSR
+  icon: fas fa-rectangle-terminal
