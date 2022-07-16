@@ -1,11 +1,11 @@
 # Setup
 title: Dexer
-description: Tech Blogger | Vaporwave Producer
+description: Blogger and Vaporwave Producer
 url: https://dexertsr.github.io
-avatar: /dex.png
+avatar: /dexer.png
 paginate: 5
 permalink: pretty
-cover_image: /divcity.jpg
+cover_image: /redcity.jpg
 
 # Gems
 plugins:
